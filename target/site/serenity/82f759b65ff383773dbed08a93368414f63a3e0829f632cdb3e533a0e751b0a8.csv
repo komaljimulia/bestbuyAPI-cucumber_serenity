@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the best buy product application","check if the best buy product application can be accessed by user","SUCCESS","2021-08-02T22:17:25.404+01:00[Europe/London]","0.0","29.74"
+"Testing different request on the best buy product application","Create a new product and verify if the product is added","SUCCESS","2021-08-02T22:17:55.642+01:00[Europe/London]","0.0","0.56"
+"Testing different request on the best buy product application","Getting the product information by Id","SUCCESS","2021-08-02T22:17:56.428+01:00[Europe/London]","0.0","0.07"
+"Testing different request on the best buy product application","update a created product and verify if the product is updated","SUCCESS","2021-08-02T22:17:56.854+01:00[Europe/London]","0.0","0.46"
+"Testing different request on the best buy product application","Delete a created product & verify the product is deleted","SUCCESS","2021-08-02T22:17:58.083+01:00[Europe/London]","0.0","0.65"

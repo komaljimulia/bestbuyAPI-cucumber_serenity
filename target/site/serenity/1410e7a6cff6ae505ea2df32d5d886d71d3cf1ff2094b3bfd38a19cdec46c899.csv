@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the best buy categories application","verify the user can access in best buy application","SUCCESS","2021-08-02T22:17:01.829+01:00[Europe/London]","0.0","10.4"
+"Testing different request on the best buy categories application","create a new categories and verify if categories is added","SUCCESS","2021-08-02T22:17:19.645+01:00[Europe/London]","0.0","3.08"
+"Testing different request on the best buy categories application","Getting the categories request by id","SUCCESS","2021-08-02T22:17:22.932+01:00[Europe/London]","0.0","0.14"
+"Testing different request on the best buy categories application","update a created categories and verify if the categories record is updated","SUCCESS","2021-08-02T22:17:23.196+01:00[Europe/London]","0.0","0.52"
+"Testing different request on the best buy categories application","Delete a created categories & verify the categories is deleted","SUCCESS","2021-08-02T22:17:24.646+01:00[Europe/London]","0.0","0.45"
